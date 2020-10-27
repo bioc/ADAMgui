@@ -1,7 +1,7 @@
 Package: ADAMgui
 Type: Package
 Title: Activity and Diversity Analysis Module Graphical User Interface
-Version: 1.5.0
+Version: 1.6.0
 Date: 2018-10-5
 Author: Giordano Bruno Sanches Seco <giordano.bruno@unesp.br>,
     André Luiz Molan <andre.molan@unesp.br>,
