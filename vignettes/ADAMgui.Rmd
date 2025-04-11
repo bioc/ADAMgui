@@ -5,7 +5,7 @@ Jose L. Rybarczyk-Filho"
 date: "`r BiocStyle::doc_date()`"
 package: "`r BiocStyle::pkg_ver('ADAMgui')`"
 bibliography: bibliography.bib
-fig_caption: yes
+fig_caption: true
 output: 
     BiocStyle::html_document:
         css: custom.css
